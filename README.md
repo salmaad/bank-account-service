@@ -2,7 +2,7 @@
 
 Ce projet consiste en la création d'un micro-service complet pour la gestion de comptes bancaires, réalisé dans le cadre du cours du **Pr. Mohamed Youssfi**. Il explore les différentes architectures d'exposition d'API (REST, Spring Data REST) et les bonnes pratiques de structuration (Couche Service, DTOs, Mappers).
 
-## 🚀 Fonctionnalités
+##Fonctionnalités
 * Gestion CRUD de comptes bancaires.
 * API RESTful manuelle et automatisée (Spring Data REST).
 * Documentation interactive avec Swagger/OpenAPI.
@@ -10,7 +10,7 @@ Ce projet consiste en la création d'un micro-service complet pour la gestion de
 
 ---
 
-## 🛠️ Technologies Utilisées
+##Technologies Utilisées
 * **Framework :** Spring Boot 3.x
 * **Persistance :** Spring Data JPA
 * **Base de données :** H2 (Base en mémoire)
@@ -19,7 +19,7 @@ Ce projet consiste en la création d'un micro-service complet pour la gestion de
 
 ---
 
-## 📝 Étapes de Réalisation
+##Étapes de Réalisation
 
 ### 1. Initialisation du Projet
 Création du projet via Spring Initializr avec les dépendances suivantes :
@@ -69,7 +69,7 @@ Mise en œuvre d'une architecture propre pour isoler la base de données de l'AP
 
 ---
 
-## 📂 Structure du Projet
+##Structure du Projet
 ```text
 src/main/java/org/sid/bankaccountservice
 ├── entities        # Entités JPA
